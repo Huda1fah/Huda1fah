@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Huda1fah
+- 👋 Hi, I’m Huda1fah
 - 👀 I’m interested in Physics
 - 🌱 I’m currently learning Quantum Distributed computing  
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine learning and Quantum computing
 
 
 <!---
